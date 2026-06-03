@@ -1,13 +1,13 @@
-pandas
+pandas==2.3.1
 numpy
-scikit-learn
-xgboost
+scikit-learn==1.6.1
+xgboost==3.2.0
 shap
 streamlit
 plotly
 matplotlib
 seaborn
-joblib
+joblib==1.5.3
 jupyter
 imbalanced-learn
 streamlit-option-menu
